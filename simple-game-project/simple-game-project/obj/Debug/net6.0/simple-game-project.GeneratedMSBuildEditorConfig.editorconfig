@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = simple_game_project
+build_property.ProjectDir = C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\
