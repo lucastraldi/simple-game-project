@@ -1,0 +1,15 @@
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\bin\Debug\net6.0\simple-game-project.exe
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\bin\Debug\net6.0\simple-game-project.deps.json
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\bin\Debug\net6.0\simple-game-project.runtimeconfig.json
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\bin\Debug\net6.0\simple-game-project.dll
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\bin\Debug\net6.0\simple-game-project.pdb
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\obj\Debug\net6.0\simple-game-project.csproj.AssemblyReference.cache
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\obj\Debug\net6.0\simple-game-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\obj\Debug\net6.0\simple-game-project.AssemblyInfoInputs.cache
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\obj\Debug\net6.0\simple-game-project.AssemblyInfo.cs
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\obj\Debug\net6.0\simple-game-project.csproj.CoreCompileInputs.cache
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\obj\Debug\net6.0\simple-game-project.dll
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\obj\Debug\net6.0\refint\simple-game-project.dll
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\obj\Debug\net6.0\simple-game-project.pdb
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\obj\Debug\net6.0\simple-game-project.genruntimeconfig.cache
+C:\Workspace\Estudos\GFT Digital Innovation\Bootcamp .NET Developer\Projetos\APP Simples\simple-game-project\simple-game-project\simple-game-project\obj\Debug\net6.0\ref\simple-game-project.dll
